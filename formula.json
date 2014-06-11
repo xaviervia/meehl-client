@@ -1,0 +1,34 @@
+{
+  "name": "Client acceptance questionnaire",
+  "description": "How to decide to accept or not a client",
+  "scores": [
+    {
+      "topic": "Economy",
+      "questions": [
+        "Is the client wealthy enough to afford the project?",
+        "Does the client have the means to make the payments?"
+      ],
+      "value": 10
+    },
+
+    {
+      "topic": "Commitment",
+      "questions": [
+        "Is the project mission critical to the client?",
+        "Is the client willing to facilitate all the given resources?",
+        "Will the client be actively involved in the project?"
+      ],
+      "value": 10
+    },
+
+    {
+      "topic": "Experience",
+      "questions": [
+        "Has the client worked with similar providers before?",
+        "Does the client know the limitations of the industry?",
+        "Will the client understand technical explanations about the project?"
+      ],
+      "value": 10
+    }
+  ]
+}

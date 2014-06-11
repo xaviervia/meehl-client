@@ -1,0 +1,23 @@
+{
+  "name": "meehl-client",
+  "version": "0.0.1",
+  "description": "Meehl formula for deciding whether to accept or not projects from clients",
+  "main": "formula.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xaviervia/meehl-client"
+  },
+  "keywords": [
+    "meehl",
+    "client",
+    "scoring"
+  ],
+  "author": "Xavier Via <fernando.via@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/xaviervia/meehl-client/issues"
+  }
+}
